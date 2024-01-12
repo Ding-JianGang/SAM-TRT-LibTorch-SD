@@ -1,4 +1,4 @@
-# SAM-TensorRT-LibTorch-Stable-diffusion-for-nearshore-object-detection-and-tracking-
+# SAM-TRT-LibTorch-SD
 
 ## Complete project: Link: https://pan.baidu.com/s/1HJU-Y-PNfk0Oewv7px5siA Key：3m1d 
 ## Model Transformation: Link: https://pan.baidu.com/s/1mFd1Prb_LLIjE6Ni1MoY0A Key：po90 
